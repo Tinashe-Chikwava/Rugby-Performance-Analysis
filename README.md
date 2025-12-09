@@ -95,4 +95,4 @@ The calculations were the most simple part but led to quite an amount of crashin
 
 ### 5. Final Visualization
 
-The visualization requiered the most outside assitnace as it needed help from the course and elshewhere to get the visualization.js file as this was quite complicated and beyond my current skill level
+The visualization requiered the most outside assitnace as it needed help from the course and elshewhere to get the visualization.js file as this was quite complicated and beyond my current skill level.
