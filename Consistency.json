@@ -1,0 +1,1064 @@
+[
+    {
+        "team_name": "France U20",
+        "games_played": 5,
+        "avg_tries": 32.0,
+        "standard_deviation": 10.97
+    },
+    {
+        "team_name": "Italy U20",
+        "games_played": 5,
+        "avg_tries": 17.4,
+        "standard_deviation": 8.36
+    },
+    {
+        "team_name": "Ireland U20",
+        "games_played": 5,
+        "avg_tries": 42.0,
+        "standard_deviation": 14.45
+    },
+    {
+        "team_name": "Wales U20",
+        "games_played": 5,
+        "avg_tries": 16.0,
+        "standard_deviation": 6.96
+    },
+    {
+        "team_name": "Scotland U20",
+        "games_played": 5,
+        "avg_tries": 14.4,
+        "standard_deviation": 6.18
+    },
+    {
+        "team_name": "England U20",
+        "games_played": 5,
+        "avg_tries": 26.6,
+        "standard_deviation": 15.53
+    },
+    {
+        "team_name": "Scotland W",
+        "games_played": 5,
+        "avg_tries": 11.8,
+        "standard_deviation": 4.87
+    },
+    {
+        "team_name": "England W",
+        "games_played": 5,
+        "avg_tries": 56.4,
+        "standard_deviation": 17.44
+    },
+    {
+        "team_name": "Ireland W",
+        "games_played": 5,
+        "avg_tries": 13.6,
+        "standard_deviation": 10.27
+    },
+    {
+        "team_name": "Wales W",
+        "games_played": 5,
+        "avg_tries": 13.8,
+        "standard_deviation": 9.66
+    },
+    {
+        "team_name": "France W",
+        "games_played": 5,
+        "avg_tries": 30.4,
+        "standard_deviation": 10.17
+    },
+    {
+        "team_name": "Italy W",
+        "games_played": 5,
+        "avg_tries": 8.8,
+        "standard_deviation": 6.52
+    },
+    {
+        "team_name": "Western Force W",
+        "games_played": 4,
+        "avg_tries": 14.25,
+        "standard_deviation": 4.55
+    },
+    {
+        "team_name": "Queensland W",
+        "games_played": 6,
+        "avg_tries": 20.83,
+        "standard_deviation": 20.97
+    },
+    {
+        "team_name": "Rebels W",
+        "games_played": 4,
+        "avg_tries": 9.25,
+        "standard_deviation": 4.92
+    },
+    {
+        "team_name": "Fijiana Drua W",
+        "games_played": 6,
+        "avg_tries": 36.0,
+        "standard_deviation": 15.75
+    },
+    {
+        "team_name": "Brumbies W",
+        "games_played": 5,
+        "avg_tries": 15.6,
+        "standard_deviation": 6.92
+    },
+    {
+        "team_name": "NSW Waratahs W",
+        "games_played": 7,
+        "avg_tries": 35.29,
+        "standard_deviation": 16.4
+    },
+    {
+        "team_name": "Ricany",
+        "games_played": 7,
+        "avg_tries": 51.29,
+        "standard_deviation": 18.96
+    },
+    {
+        "team_name": "Prelouc",
+        "games_played": 10,
+        "avg_tries": 14.1,
+        "standard_deviation": 6.2
+    },
+    {
+        "team_name": "Vyskov",
+        "games_played": 9,
+        "avg_tries": 36.56,
+        "standard_deviation": 21.63
+    },
+    {
+        "team_name": "Dragon",
+        "games_played": 9,
+        "avg_tries": 21.67,
+        "standard_deviation": 11.92
+    },
+    {
+        "team_name": "Tatra Smichov",
+        "games_played": 9,
+        "avg_tries": 26.0,
+        "standard_deviation": 12.22
+    },
+    {
+        "team_name": "Praga",
+        "games_played": 8,
+        "avg_tries": 24.0,
+        "standard_deviation": 14.41
+    },
+    {
+        "team_name": "Slavia",
+        "games_played": 9,
+        "avg_tries": 32.56,
+        "standard_deviation": 34.91
+    },
+    {
+        "team_name": "Sparta",
+        "games_played": 9,
+        "avg_tries": 40.22,
+        "standard_deviation": 25.93
+    },
+    {
+        "team_name": "Alumni",
+        "games_played": 24,
+        "avg_tries": 27.38,
+        "standard_deviation": 10.97
+    },
+    {
+        "team_name": "San Luis",
+        "games_played": 24,
+        "avg_tries": 19.5,
+        "standard_deviation": 9.06
+    },
+    {
+        "team_name": "Buenos Aires",
+        "games_played": 24,
+        "avg_tries": 24.38,
+        "standard_deviation": 8.37
+    },
+    {
+        "team_name": "Pucara",
+        "games_played": 24,
+        "avg_tries": 23.25,
+        "standard_deviation": 9.4
+    },
+    {
+        "team_name": "Hindu",
+        "games_played": 26,
+        "avg_tries": 32.58,
+        "standard_deviation": 11.29
+    },
+    {
+        "team_name": "Los Tilos",
+        "games_played": 24,
+        "avg_tries": 19.58,
+        "standard_deviation": 10.29
+    },
+    {
+        "team_name": "Regatas Bella Vista",
+        "games_played": 24,
+        "avg_tries": 19.29,
+        "standard_deviation": 8.7
+    },
+    {
+        "team_name": "Belgrano",
+        "games_played": 24,
+        "avg_tries": 29.21,
+        "standard_deviation": 12.24
+    },
+    {
+        "team_name": "SIC",
+        "games_played": 26,
+        "avg_tries": 27.31,
+        "standard_deviation": 8.91
+    },
+    {
+        "team_name": "Newman",
+        "games_played": 25,
+        "avg_tries": 31.24,
+        "standard_deviation": 12.58
+    },
+    {
+        "team_name": "Atl. Del Rosario",
+        "games_played": 24,
+        "avg_tries": 28.25,
+        "standard_deviation": 9.54
+    },
+    {
+        "team_name": "CUBA",
+        "games_played": 25,
+        "avg_tries": 26.52,
+        "standard_deviation": 12.16
+    },
+    {
+        "team_name": "CASI",
+        "games_played": 24,
+        "avg_tries": 25.0,
+        "standard_deviation": 11.98
+    },
+    {
+        "team_name": "Eastern Suburbs",
+        "games_played": 19,
+        "avg_tries": 26.11,
+        "standard_deviation": 10.06
+    },
+    {
+        "team_name": "Northern S.",
+        "games_played": 20,
+        "avg_tries": 31.6,
+        "standard_deviation": 9.78
+    },
+    {
+        "team_name": "Eastwood",
+        "games_played": 21,
+        "avg_tries": 26.95,
+        "standard_deviation": 9.54
+    },
+    {
+        "team_name": "Randwick",
+        "games_played": 20,
+        "avg_tries": 26.85,
+        "standard_deviation": 9.48
+    },
+    {
+        "team_name": "Hunter Wildfires",
+        "games_played": 18,
+        "avg_tries": 24.22,
+        "standard_deviation": 7.2
+    },
+    {
+        "team_name": "Gordon",
+        "games_played": 22,
+        "avg_tries": 26.95,
+        "standard_deviation": 10.29
+    },
+    {
+        "team_name": "Souths",
+        "games_played": 18,
+        "avg_tries": 20.94,
+        "standard_deviation": 8.45
+    },
+    {
+        "team_name": "Manly",
+        "games_played": 20,
+        "avg_tries": 25.15,
+        "standard_deviation": 7.56
+    },
+    {
+        "team_name": "Warringah",
+        "games_played": 19,
+        "avg_tries": 24.05,
+        "standard_deviation": 9.7
+    },
+    {
+        "team_name": "Sydney Uni",
+        "games_played": 21,
+        "avg_tries": 27.43,
+        "standard_deviation": 10.0
+    },
+    {
+        "team_name": "Western Sydney",
+        "games_played": 18,
+        "avg_tries": 21.56,
+        "standard_deviation": 7.34
+    },
+    {
+        "team_name": "West Harbour",
+        "games_played": 18,
+        "avg_tries": 18.94,
+        "standard_deviation": 10.82
+    },
+    {
+        "team_name": "Ampthill",
+        "games_played": 28,
+        "avg_tries": 22.96,
+        "standard_deviation": 10.48
+    },
+    {
+        "team_name": "Jersey",
+        "games_played": 30,
+        "avg_tries": 36.07,
+        "standard_deviation": 13.91
+    },
+    {
+        "team_name": "Cornish Pirates",
+        "games_played": 29,
+        "avg_tries": 25.83,
+        "standard_deviation": 13.22
+    },
+    {
+        "team_name": "Richmond",
+        "games_played": 28,
+        "avg_tries": 16.96,
+        "standard_deviation": 9.97
+    },
+    {
+        "team_name": "Coventry R.F.C",
+        "games_played": 28,
+        "avg_tries": 33.39,
+        "standard_deviation": 12.94
+    },
+    {
+        "team_name": "Bedford Blues",
+        "games_played": 28,
+        "avg_tries": 30.89,
+        "standard_deviation": 11.91
+    },
+    {
+        "team_name": "Ealing",
+        "games_played": 22,
+        "avg_tries": 41.45,
+        "standard_deviation": 15.43
+    },
+    {
+        "team_name": "Doncaster",
+        "games_played": 29,
+        "avg_tries": 26.21,
+        "standard_deviation": 15.39
+    },
+    {
+        "team_name": "London Scottish",
+        "games_played": 28,
+        "avg_tries": 19.0,
+        "standard_deviation": 10.4
+    },
+    {
+        "team_name": "Nottingham",
+        "games_played": 28,
+        "avg_tries": 23.07,
+        "standard_deviation": 8.87
+    },
+    {
+        "team_name": "Caldy",
+        "games_played": 28,
+        "avg_tries": 19.5,
+        "standard_deviation": 7.8
+    },
+    {
+        "team_name": "Hartpury University",
+        "games_played": 28,
+        "avg_tries": 22.07,
+        "standard_deviation": 10.36
+    },
+    {
+        "team_name": "Bordeaux Begles",
+        "games_played": 28,
+        "avg_tries": 22.18,
+        "standard_deviation": 9.25
+    },
+    {
+        "team_name": "Stade Toulousain",
+        "games_played": 28,
+        "avg_tries": 26.86,
+        "standard_deviation": 11.84
+    },
+    {
+        "team_name": "Stade Rochelais",
+        "games_played": 28,
+        "avg_tries": 25.82,
+        "standard_deviation": 9.83
+    },
+    {
+        "team_name": "Montpellier",
+        "games_played": 26,
+        "avg_tries": 24.0,
+        "standard_deviation": 9.47
+    },
+    {
+        "team_name": "Racing 92",
+        "games_played": 28,
+        "avg_tries": 27.89,
+        "standard_deviation": 11.95
+    },
+    {
+        "team_name": "Castres Olympique",
+        "games_played": 26,
+        "avg_tries": 20.46,
+        "standard_deviation": 8.66
+    },
+    {
+        "team_name": "RC Toulonnais",
+        "games_played": 26,
+        "avg_tries": 22.62,
+        "standard_deviation": 10.86
+    },
+    {
+        "team_name": "Aviron Bayonnais",
+        "games_played": 26,
+        "avg_tries": 22.92,
+        "standard_deviation": 7.49
+    },
+    {
+        "team_name": "Section Paloise",
+        "games_played": 26,
+        "avg_tries": 22.73,
+        "standard_deviation": 10.26
+    },
+    {
+        "team_name": "USA Perpignan",
+        "games_played": 27,
+        "avg_tries": 19.85,
+        "standard_deviation": 10.43
+    },
+    {
+        "team_name": "Stade Francais Paris",
+        "games_played": 27,
+        "avg_tries": 23.56,
+        "standard_deviation": 10.39
+    },
+    {
+        "team_name": "Clermont 7s",
+        "games_played": 32,
+        "avg_tries": 22.25,
+        "standard_deviation": 11.92
+    },
+    {
+        "team_name": "CA Brive",
+        "games_played": 26,
+        "avg_tries": 16.92,
+        "standard_deviation": 9.58
+    },
+    {
+        "team_name": "Lyon",
+        "games_played": 27,
+        "avg_tries": 26.48,
+        "standard_deviation": 10.75
+    },
+    {
+        "team_name": "Angouleme",
+        "games_played": 30,
+        "avg_tries": 18.97,
+        "standard_deviation": 4.55
+    },
+    {
+        "team_name": "Vannes",
+        "games_played": 32,
+        "avg_tries": 23.72,
+        "standard_deviation": 11.03
+    },
+    {
+        "team_name": "Colomiers",
+        "games_played": 30,
+        "avg_tries": 22.47,
+        "standard_deviation": 9.62
+    },
+    {
+        "team_name": "Carcassonne",
+        "games_played": 30,
+        "avg_tries": 18.43,
+        "standard_deviation": 8.2
+    },
+    {
+        "team_name": "Grenoble FC",
+        "games_played": 33,
+        "avg_tries": 22.12,
+        "standard_deviation": 9.67
+    },
+    {
+        "team_name": "Beziers",
+        "games_played": 30,
+        "avg_tries": 23.33,
+        "standard_deviation": 10.59
+    },
+    {
+        "team_name": "Massy",
+        "games_played": 30,
+        "avg_tries": 16.63,
+        "standard_deviation": 7.31
+    },
+    {
+        "team_name": "Rouen Normandie",
+        "games_played": 30,
+        "avg_tries": 19.8,
+        "standard_deviation": 10.27
+    },
+    {
+        "team_name": "Montauban",
+        "games_played": 30,
+        "avg_tries": 22.6,
+        "standard_deviation": 9.33
+    },
+    {
+        "team_name": "Nevers",
+        "games_played": 31,
+        "avg_tries": 23.71,
+        "standard_deviation": 10.39
+    },
+    {
+        "team_name": "Mont-de-Marsan",
+        "games_played": 32,
+        "avg_tries": 25.88,
+        "standard_deviation": 9.8
+    },
+    {
+        "team_name": "Aurillac",
+        "games_played": 30,
+        "avg_tries": 19.53,
+        "standard_deviation": 7.99
+    },
+    {
+        "team_name": "Provence Rugby",
+        "games_played": 30,
+        "avg_tries": 21.73,
+        "standard_deviation": 8.38
+    },
+    {
+        "team_name": "Agen",
+        "games_played": 31,
+        "avg_tries": 21.84,
+        "standard_deviation": 8.54
+    },
+    {
+        "team_name": "Biarritz Olympique",
+        "games_played": 30,
+        "avg_tries": 23.0,
+        "standard_deviation": 10.35
+    },
+    {
+        "team_name": "US Oyonnax",
+        "games_played": 32,
+        "avg_tries": 29.5,
+        "standard_deviation": 12.24
+    },
+    {
+        "team_name": "Ealing Trailfinders",
+        "games_played": 8,
+        "avg_tries": 39.38,
+        "standard_deviation": 17.01
+    },
+    {
+        "team_name": "Bristol",
+        "games_played": 21,
+        "avg_tries": 25.62,
+        "standard_deviation": 13.03
+    },
+    {
+        "team_name": "Bath",
+        "games_played": 21,
+        "avg_tries": 26.62,
+        "standard_deviation": 11.75
+    },
+    {
+        "team_name": "Sale Sharks",
+        "games_played": 22,
+        "avg_tries": 28.27,
+        "standard_deviation": 9.11
+    },
+    {
+        "team_name": "Northampton Saints",
+        "games_played": 22,
+        "avg_tries": 30.68,
+        "standard_deviation": 13.89
+    },
+    {
+        "team_name": "Exeter Chiefs",
+        "games_played": 21,
+        "avg_tries": 23.14,
+        "standard_deviation": 10.54
+    },
+    {
+        "team_name": "Leicester Tigers",
+        "games_played": 21,
+        "avg_tries": 27.29,
+        "standard_deviation": 13.0
+    },
+    {
+        "team_name": "London Irish",
+        "games_played": 21,
+        "avg_tries": 28.0,
+        "standard_deviation": 10.61
+    },
+    {
+        "team_name": "Worcester Warriors",
+        "games_played": 3,
+        "avg_tries": 24.67,
+        "standard_deviation": 10.53
+    },
+    {
+        "team_name": "Newcastle Falcons",
+        "games_played": 21,
+        "avg_tries": 19.24,
+        "standard_deviation": 9.77
+    },
+    {
+        "team_name": "Harlequins",
+        "games_played": 20,
+        "avg_tries": 27.3,
+        "standard_deviation": 9.52
+    },
+    {
+        "team_name": "Gloucester",
+        "games_played": 21,
+        "avg_tries": 22.0,
+        "standard_deviation": 9.35
+    },
+    {
+        "team_name": "Wasps",
+        "games_played": 4,
+        "avg_tries": 26.0,
+        "standard_deviation": 12.43
+    },
+    {
+        "team_name": "Saracens",
+        "games_played": 22,
+        "avg_tries": 31.59,
+        "standard_deviation": 8.98
+    },
+    {
+        "team_name": "Berliner",
+        "games_played": 15,
+        "avg_tries": 36.67,
+        "standard_deviation": 16.04
+    },
+    {
+        "team_name": "Germania List",
+        "games_played": 14,
+        "avg_tries": 25.5,
+        "standard_deviation": 17.96
+    },
+    {
+        "team_name": "Leipzig",
+        "games_played": 15,
+        "avg_tries": 30.2,
+        "standard_deviation": 18.84
+    },
+    {
+        "team_name": "RK 03 Berlin",
+        "games_played": 14,
+        "avg_tries": 14.5,
+        "standard_deviation": 9.48
+    },
+    {
+        "team_name": "Munchen",
+        "games_played": 14,
+        "avg_tries": 23.21,
+        "standard_deviation": 13.99
+    },
+    {
+        "team_name": "Heusenstamm",
+        "games_played": 14,
+        "avg_tries": 16.57,
+        "standard_deviation": 15.2
+    },
+    {
+        "team_name": "Frankfurt",
+        "games_played": 16,
+        "avg_tries": 45.81,
+        "standard_deviation": 23.81
+    },
+    {
+        "team_name": "Offenbacher",
+        "games_played": 15,
+        "avg_tries": 18.2,
+        "standard_deviation": 10.78
+    },
+    {
+        "team_name": "Heidelberger",
+        "games_played": 28,
+        "avg_tries": 19.04,
+        "standard_deviation": 12.22
+    },
+    {
+        "team_name": "Handschuhsheim",
+        "games_played": 16,
+        "avg_tries": 45.88,
+        "standard_deviation": 34.96
+    },
+    {
+        "team_name": "Hamburger",
+        "games_played": 14,
+        "avg_tries": 18.93,
+        "standard_deviation": 14.08
+    },
+    {
+        "team_name": "Linden",
+        "games_played": 14,
+        "avg_tries": 16.86,
+        "standard_deviation": 11.61
+    },
+    {
+        "team_name": "Neuenheim",
+        "games_played": 17,
+        "avg_tries": 43.35,
+        "standard_deviation": 22.75
+    },
+    {
+        "team_name": "St. Pauli",
+        "games_played": 15,
+        "avg_tries": 17.8,
+        "standard_deviation": 11.37
+    },
+    {
+        "team_name": "Hannover 78",
+        "games_played": 16,
+        "avg_tries": 35.06,
+        "standard_deviation": 18.9
+    },
+    {
+        "team_name": "French Barbarians 7s",
+        "games_played": 11,
+        "avg_tries": 24.55,
+        "standard_deviation": 11.7
+    },
+    {
+        "team_name": "Lyon 7s",
+        "games_played": 7,
+        "avg_tries": 18.29,
+        "standard_deviation": 12.3
+    },
+    {
+        "team_name": "Stade Toulousain 7s",
+        "games_played": 6,
+        "avg_tries": 24.83,
+        "standard_deviation": 14.5
+    },
+    {
+        "team_name": "Aviron Bayonnais 7s",
+        "games_played": 9,
+        "avg_tries": 18.11,
+        "standard_deviation": 6.23
+    },
+    {
+        "team_name": "Section Paloise 7s",
+        "games_played": 12,
+        "avg_tries": 28.67,
+        "standard_deviation": 9.92
+    },
+    {
+        "team_name": "USA Perpignan 7s",
+        "games_played": 7,
+        "avg_tries": 12.86,
+        "standard_deviation": 7.94
+    },
+    {
+        "team_name": "Bordeaux Begles 7s",
+        "games_played": 9,
+        "avg_tries": 21.22,
+        "standard_deviation": 8.3
+    },
+    {
+        "team_name": "Monaco 7s",
+        "games_played": 12,
+        "avg_tries": 29.17,
+        "standard_deviation": 10.19
+    },
+    {
+        "team_name": "CA Brive 7s",
+        "games_played": 6,
+        "avg_tries": 15.0,
+        "standard_deviation": 10.61
+    },
+    {
+        "team_name": "La Rochelle 7s",
+        "games_played": 8,
+        "avg_tries": 17.0,
+        "standard_deviation": 11.64
+    },
+    {
+        "team_name": "Montpellier 7s",
+        "games_played": 6,
+        "avg_tries": 8.5,
+        "standard_deviation": 2.99
+    },
+    {
+        "team_name": "Racing 92 7s",
+        "games_played": 11,
+        "avg_tries": 22.73,
+        "standard_deviation": 14.43
+    },
+    {
+        "team_name": "Castres Olympique 7s",
+        "games_played": 6,
+        "avg_tries": 12.83,
+        "standard_deviation": 7.49
+    },
+    {
+        "team_name": "RC Toulonnais 7s",
+        "games_played": 6,
+        "avg_tries": 15.5,
+        "standard_deviation": 16.13
+    },
+    {
+        "team_name": "Stade Francais Paris 7s",
+        "games_played": 10,
+        "avg_tries": 17.5,
+        "standard_deviation": 6.73
+    },
+    {
+        "team_name": "Kazbegi",
+        "games_played": 18,
+        "avg_tries": 18.83,
+        "standard_deviation": 8.83
+    },
+    {
+        "team_name": "Bolnisi Kochebi",
+        "games_played": 19,
+        "avg_tries": 23.05,
+        "standard_deviation": 8.16
+    },
+    {
+        "team_name": "Ares Kutaisi",
+        "games_played": 19,
+        "avg_tries": 22.95,
+        "standard_deviation": 11.0
+    },
+    {
+        "team_name": "Kharebi Rustavi",
+        "games_played": 20,
+        "avg_tries": 24.55,
+        "standard_deviation": 7.68
+    },
+    {
+        "team_name": "Locomotive Tbilisi",
+        "games_played": 18,
+        "avg_tries": 15.22,
+        "standard_deviation": 9.73
+    },
+    {
+        "team_name": "Lelo Tbilisi",
+        "games_played": 20,
+        "avg_tries": 27.0,
+        "standard_deviation": 10.27
+    },
+    {
+        "team_name": "AIA Kutaisi",
+        "games_played": 20,
+        "avg_tries": 21.65,
+        "standard_deviation": 10.65
+    },
+    {
+        "team_name": "Academia Tbilisi",
+        "games_played": 20,
+        "avg_tries": 21.7,
+        "standard_deviation": 13.21
+    },
+    {
+        "team_name": "Batumi",
+        "games_played": 22,
+        "avg_tries": 24.05,
+        "standard_deviation": 13.5
+    },
+    {
+        "team_name": "Khvamli Tbilisi",
+        "games_played": 18,
+        "avg_tries": 25.39,
+        "standard_deviation": 11.91
+    },
+    {
+        "team_name": "Blagnac",
+        "games_played": 29,
+        "avg_tries": 21.79,
+        "standard_deviation": 9.16
+    },
+    {
+        "team_name": "Albi",
+        "games_played": 29,
+        "avg_tries": 22.69,
+        "standard_deviation": 14.25
+    },
+    {
+        "team_name": "Narbonne",
+        "games_played": 26,
+        "avg_tries": 22.69,
+        "standard_deviation": 11.59
+    },
+    {
+        "team_name": "Stade Nicois",
+        "games_played": 26,
+        "avg_tries": 20.69,
+        "standard_deviation": 9.46
+    },
+    {
+        "team_name": "Cognac",
+        "games_played": 25,
+        "avg_tries": 15.2,
+        "standard_deviation": 5.79
+    },
+    {
+        "team_name": "Valence Romans",
+        "games_played": 28,
+        "avg_tries": 25.5,
+        "standard_deviation": 10.54
+    },
+    {
+        "team_name": "Chambery",
+        "games_played": 26,
+        "avg_tries": 22.35,
+        "standard_deviation": 10.66
+    },
+    {
+        "team_name": "Tarbes Pyrenees",
+        "games_played": 26,
+        "avg_tries": 22.12,
+        "standard_deviation": 8.48
+    },
+    {
+        "team_name": "US Dax",
+        "games_played": 29,
+        "avg_tries": 26.97,
+        "standard_deviation": 12.37
+    },
+    {
+        "team_name": "CS Bourgoin-Jallieu",
+        "games_played": 27,
+        "avg_tries": 23.04,
+        "standard_deviation": 8.14
+    },
+    {
+        "team_name": "Suresnes",
+        "games_played": 26,
+        "avg_tries": 17.31,
+        "standard_deviation": 7.68
+    },
+    {
+        "team_name": "Rennes",
+        "games_played": 26,
+        "avg_tries": 12.38,
+        "standard_deviation": 7.12
+    },
+    {
+        "team_name": "Bressane",
+        "games_played": 27,
+        "avg_tries": 19.74,
+        "standard_deviation": 9.01
+    },
+    {
+        "team_name": "Hyeres",
+        "games_played": 26,
+        "avg_tries": 18.42,
+        "standard_deviation": 9.58
+    },
+    {
+        "team_name": "Bristol W",
+        "games_played": 19,
+        "avg_tries": 35.26,
+        "standard_deviation": 22.34
+    },
+    {
+        "team_name": "Wasps W",
+        "games_played": 17,
+        "avg_tries": 6.71,
+        "standard_deviation": 7.62
+    },
+    {
+        "team_name": "Saracens W",
+        "games_played": 19,
+        "avg_tries": 42.79,
+        "standard_deviation": 22.96
+    },
+    {
+        "team_name": "Loughborough W",
+        "games_played": 17,
+        "avg_tries": 27.47,
+        "standard_deviation": 20.78
+    },
+    {
+        "team_name": "Exeter Chiefs W",
+        "games_played": 20,
+        "avg_tries": 47.35,
+        "standard_deviation": 22.2
+    },
+    {
+        "team_name": "GLH W",
+        "games_played": 19,
+        "avg_tries": 42.05,
+        "standard_deviation": 15.34
+    },
+    {
+        "team_name": "Sale Sharks W",
+        "games_played": 18,
+        "avg_tries": 21.61,
+        "standard_deviation": 18.79
+    },
+    {
+        "team_name": "Durham W",
+        "games_played": 18,
+        "avg_tries": 7.56,
+        "standard_deviation": 9.94
+    },
+    {
+        "team_name": "Harlequins W",
+        "games_played": 18,
+        "avg_tries": 34.89,
+        "standard_deviation": 22.64
+    },
+    {
+        "team_name": "Worcester Warriors W",
+        "games_played": 17,
+        "avg_tries": 26.88,
+        "standard_deviation": 16.04
+    },
+    {
+        "team_name": "Rugby Oberosterreich",
+        "games_played": 8,
+        "avg_tries": 11.75,
+        "standard_deviation": 11.79
+    },
+    {
+        "team_name": "SRC Wien",
+        "games_played": 7,
+        "avg_tries": 13.14,
+        "standard_deviation": 10.72
+    },
+    {
+        "team_name": "Donau Wien II",
+        "games_played": 5,
+        "avg_tries": 21.4,
+        "standard_deviation": 7.58
+    },
+    {
+        "team_name": "Vienna Celtic",
+        "games_played": 9,
+        "avg_tries": 41.78,
+        "standard_deviation": 12.13
+    },
+    {
+        "team_name": "Donau Wien",
+        "games_played": 7,
+        "avg_tries": 24.57,
+        "standard_deviation": 12.86
+    },
+    {
+        "team_name": "RC Graz",
+        "games_played": 6,
+        "avg_tries": 25.33,
+        "standard_deviation": 19.34
+    }
+]
