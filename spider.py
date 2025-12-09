@@ -6,7 +6,7 @@ import urllib.parse
 import requests 
 
 # basic setting up here
-key = '30662e2b72faf9d6960697a07495d825' #this api key has been already revoked and a new one will be eventually generated
+key = 'xxxxxxxxxxxxxxxxxxxx' 
 baseurl = "https://v1.rugby.api-sports.io"
 
 # taking care of ssl errors (only necessary if using urllib, but harmless here)
